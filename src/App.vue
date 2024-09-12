@@ -1,5 +1,5 @@
 <template>
-  <div id="text">Selamat Docker Telah Berhasil Dibuat</div>
+  <div id="text">Sleamat s1</div>
 </template>
 
 <style>

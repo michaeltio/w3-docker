@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    container_name: vue_app_container
+    ports:
+      - '5173:5173'
+    volumes:
+      - ./:/app
+    command: npm run dev
